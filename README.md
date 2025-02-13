@@ -130,10 +130,6 @@ Planned features:
 
 ## Acknowledgments
 
-- Thanks to the python-chess library developers
-- Thanks to the Streamlit team
-- Thanks to Anthropic for GPT-4 integration
-- Thanks to the AutoGen team for the agent framework
 - Thanks to https://github.com/Shubhamsaboo
 
 ## Support

@@ -25,7 +25,7 @@ A Streamlit-based interactive chess game where humans can play against an AI opp
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd chess-game
+cd ai_chess_game
 ```
 
 2. Install the required packages:
@@ -33,18 +33,11 @@ cd chess-game
 pip install -r requirements.txt
 ```
 
-3. Create a requirements.txt file with the following contents:
-```
-streamlit
-chess
-autogen
-```
-
 ## Usage
 
 1. Start the Streamlit app:
 ```bash
-streamlit run chess_game.py
+streamlit run ai_chess_agent.py
 ```
 
 2. In your web browser:
